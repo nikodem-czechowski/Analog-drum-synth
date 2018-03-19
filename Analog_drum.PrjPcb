@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NFDMXVIO
 
 [Document2]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD17\Library\Texas Instruments\TI Analog Current Mirror.IntLib
+DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GGSNOCHE
 
 [Document3]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD17\Library\Texas Instruments\TI Audio Sound Generator.IntLib
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD17\Library\Texas Instruments\TI Operational Amplifier.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\Public\Documents\Altium\AD17\Library\Texas Instruments\TI Operational Amplifier.IntLib
+DocumentPath=..\..\..\..\Public\Documents\Altium\AD17\Library\Goldpin\Pin Headers TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,23 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document5]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GGSNOCHE
 
 [Configuration1]
 Name=Sources
